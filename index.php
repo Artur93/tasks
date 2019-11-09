@@ -116,6 +116,9 @@
 </head>
 
 <body>
+	<div align="right" style="margin: 10px;">
+		<a href="admin/index.php">Авторизация</a>
+	</div>
 	<div align="center">
 		<form enctype="multipart/form-data" id="submit_form" class="col-md-12" style="width: 100%">
 			<div class="form-group col-sm-4">
